@@ -6,7 +6,7 @@
 void *cliente(void *num);
 void *barbero(void *num);
 
-//se definen los semaforos
+//se definen los semaforos"
 sem_t sillaEspera;
 sem_t barberoSilla;
 sem_t barberoDormir;
